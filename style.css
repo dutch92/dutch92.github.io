@@ -3,7 +3,7 @@ body {
 	font-size: 12px;
 	color: #313030;
 	background-color: #027fcf;
-	background-image: url(../images/top-rept.jpg);
+	background-image: url(./images/top-rept.jpg);
 	background-repeat: repeat-x;
 	background-position: left top;
 	margin: 0px;
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, li, form, input, textarea {
 img, div, input {
 }
 .main-out {
-	background-image: url(../images/trans.png);
+	background-image: url(./images/trans.png);
 	background-repeat: repeat-y;
 	background-position: center top;
 	width: 100%;
@@ -41,7 +41,7 @@ img, div, input {
 	float: left;
 }
 .header-top {
-	background-image: url(../images/header-top.jpg);
+	background-image: url(./images/header-top.jpg);
 	background-repeat: no-repeat;
 	background-position: left top;
 	width: 980px;
@@ -69,7 +69,7 @@ img, div, input {
 	margin-right: 80px;
 }
 .topmenu {
-	background-image: url(../images/menubg.jpg);
+	background-image: url(./images/menubg.jpg);
 	background-repeat: repeat-x;
 	width: 978px;
 	height: 37px;
@@ -101,12 +101,12 @@ img, div, input {
 	padding-left: 21px;
 }
 .topmenu ul li a:hover {
-	background-image: url(../images/menu-hov.jpg);
+	background-image: url(./images/menu-hov.jpg);
 	background-repeat: repeat-x;
 	background-position: left top;
 }
 .header-img {
-	background-image: url(../images/header.jpg);
+	background-image: url(./images/header.jpg);
 	background-repeat: no-repeat;
 	background-position: left top;
 	width: 980px;
@@ -122,7 +122,7 @@ img, div, input {
 	margin-left: 98px;
 }
 .content {
-	background-image: url(../images/body-rept.jpg);
+	background-image: url(./images/body-rept.jpg);
 	background-repeat: repeat-x;
 	background-position: left top;
 	width: 980px;
@@ -173,7 +173,7 @@ img, div, input {
 	padding: 20px;
 }
 .section2 {
-	background-image: url(../images/section-bg.jpg);
+	background-image: url(./images/section-bg.jpg);
 	background-repeat: no-repeat;
 	background-position: left top;
 	width: 327px;
@@ -193,7 +193,7 @@ a.more {
 	line-height: 25px;
 	color: #4d4e4e;
 	text-decoration: none;
-	background-image: url(../images/more-btn.jpg);
+	background-image: url(./images/more-btn.jpg);
 	background-repeat: no-repeat;
 	background-position: left top;
 	text-align: left;
@@ -207,7 +207,7 @@ a.more:hover {
 }
 .content-right {
 	background-color: #d6d6d6;
-	background-image: url(../images/sidebarbg.jpg);
+	background-image: url(./images/sidebarbg.jpg);
 	background-repeat: repeat-x;
 	background-position: left top;
 	width: 210px;
@@ -228,7 +228,7 @@ a.more:hover {
 	list-style-type: none;
 }
 .content-right ul li {
-	background-image: url(../images/bullet.gif);
+	background-image: url(./images/bullet.gif);
 	background-repeat: no-repeat;
 	background-position: 23px center;
 	padding-left: 45px;
@@ -250,7 +250,7 @@ a.more:hover {
 	color: #0b90d6;
 }
 .bottom {
-	background-image: url(../images/footer.jpg);
+	background-image: url(./images/footer.jpg);
 	background-repeat: no-repeat;
 	background-position: left top;
 	text-align: center;
